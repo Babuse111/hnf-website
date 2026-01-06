@@ -1,0 +1,19 @@
+BMW IMAGE INSTRUCTIONS
+======================
+
+Please save a BMW-related image (BMW logo, BMW facility, or BMW project image) as "bmw.jpg" or "bmw.png" in this directory.
+
+Recommended:
+- BMW logo (official)
+- BMW facility/operations image
+- Professional image related to your BMW project
+- Format: JPG or PNG
+- Size: At least 800x600px for quality
+
+The image will be displayed in the Portfolio section of the website.
+
+Alternative names accepted:
+- bmw.jpg
+- bmw.png
+- bmw-logo.jpg
+- bmw-logo.png

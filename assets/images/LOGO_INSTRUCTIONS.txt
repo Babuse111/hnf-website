@@ -1,0 +1,23 @@
+LOGO SETUP INSTRUCTIONS
+========================
+
+Please save your HNF Global Solutions logo as "logo.png" in this directory.
+
+The logo has been integrated into:
+1. Navigation bar (top left)
+2. Footer section
+
+File location: assets/images/logo.png
+
+Current settings:
+- Navigation logo: 50px height
+- Footer logo: 60px height (with white filter for dark background)
+
+Recommended logo specifications:
+- Format: PNG with transparent background (preferred) or JPG
+- Size: At least 200px height for quality
+- Aspect ratio: Will scale proportionally
+
+If your logo file has a different name, either:
+1. Rename it to "logo.png", or
+2. Update the references in index.html to match your filename

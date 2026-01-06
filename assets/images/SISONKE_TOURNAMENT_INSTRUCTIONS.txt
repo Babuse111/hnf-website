@@ -1,0 +1,57 @@
+SISONKE SOCCER TOURNAMENT - PHOTO INSTRUCTIONS
+===============================================
+
+Please add your Sisonke Soccer Tournament photos to this directory.
+
+## Recommended Photos:
+
+1. **sisonke-main.jpg** - Main tournament photo (action shot, teams, or opening ceremony)
+   - Will be displayed in the Community section
+   - Recommended size: 1200x800px
+
+2. **sisonke-banner.jpg** (Optional) - Tournament banner/logo
+   - Recommended size: 800x400px
+
+3. **sisonke-gallery/** (Optional) - Create a subfolder for multiple photos
+   - Team photos
+   - Action shots
+   - Award ceremonies
+   - Community events
+
+## How to Add Photos:
+
+### Option 1: Single Main Photo
+1. Save your best tournament photo as: `sisonke-main.jpg`
+2. Place it in this directory: `assets/images/`
+3. The website will automatically display it
+
+### Option 2: Multiple Photos (Gallery)
+1. Create folder: `assets/images/sisonke-gallery/`
+2. Add multiple photos with names like:
+   - `action1.jpg`
+   - `teams.jpg`
+   - `ceremony.jpg`
+   - `community.jpg`
+
+## Current Status:
+📌 Soccer ball icon placeholder is displayed
+📌 Ready to be replaced with actual tournament photos
+📌 Just drop your photo as `sisonke-main.jpg` in this folder
+
+## Photo Specifications:
+- Format: JPG or PNG
+- Minimum size: 800x600px (larger is better)
+- Aspect ratio: 16:9 or 4:3 preferred
+- File size: Keep under 2MB for fast loading
+
+## After Adding Photos:
+1. Refresh your browser (Ctrl + F5)
+2. The photo will appear in the Community section
+3. Let me know if you want to add a photo gallery!
+
+---
+
+**Need Help?** Ask me to:
+- Convert the placeholder to use your actual photo
+- Create a photo gallery
+- Adjust photo sizes or layout
